@@ -139,6 +139,7 @@ Tooling written around what is confirmed, not what is assumed.
 ![x86-64 ASM](https://img.shields.io/badge/x86--64%20ASM-1f1f1f?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-1f1f1f?style=for-the-badge&logo=c&logoColor=ff5500)
 ![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=ff5500)
+![Rust](https://img.shields.io/badge/Rust-1f1f1f?style=for-the-badge&logo=rust&logoColor=ff5500)
 ![Verilog](https://img.shields.io/badge/Verilog-1f1f1f?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=ff5500)
 
